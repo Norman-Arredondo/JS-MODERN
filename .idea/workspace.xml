@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}">
+      <change beforePath="$PROJECT_DIR$/03-Strings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/05-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/06-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Strings/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/07-app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hzVvblqamvkVlQVkGNEiacUBPp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="" />
+      <created>1601014140804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601014140804</updated>
+      <workItem from="1601014144695" duration="131000" />
+      <workItem from="1601014299027" duration="7505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="158" key="#Web_Browsers" timestamp="1601014433450">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="158" key="#Web_Browsers/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014433450" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1601014411815">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014411815" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1601014418531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014418531" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1601016618544">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601016618544" />
+  </component>
+</project>
