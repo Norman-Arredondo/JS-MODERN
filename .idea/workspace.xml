@@ -20,14 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}">
-      <change beforePath="$PROJECT_DIR$/03-Strings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/04-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/05-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/06-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Strings/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-Strings/js/07-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/05-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Numeros/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/06-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601014140804</updated>
       <workItem from="1601014144695" duration="131000" />
-      <workItem from="1601014299027" duration="7505000" />
+      <workItem from="1601014299027" duration="7599000" />
+      <workItem from="1601082723626" duration="3570000" />
     </task>
     <servers />
   </component>
@@ -78,6 +79,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
