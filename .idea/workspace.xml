@@ -20,14 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/04-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/05-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-Numeros/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-Numeros/js/06-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Operadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Operadores/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Operadores/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Operadores/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Booleans/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Booleans/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Booleans/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Booleans/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Objetos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Objetos/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Objetos/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Objetos/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Objetos/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/04-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/05-Operadores/js/01-app.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1hzVvblqamvkVlQVkGNEiacUBPp" />
   <component name="ProjectLevelVcsManager">
@@ -47,7 +57,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -62,7 +74,8 @@
       <updated>1601014140804</updated>
       <workItem from="1601014144695" duration="131000" />
       <workItem from="1601014299027" duration="7599000" />
-      <workItem from="1601082723626" duration="3570000" />
+      <workItem from="1601082723626" duration="6426000" />
+      <workItem from="1601104218080" duration="4956000" />
     </task>
     <servers />
   </component>
@@ -95,13 +108,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014411815" />
-    <state x="184" y="14" key="SettingsEditor" timestamp="1601014418531">
+    <state x="184" y="14" key="SettingsEditor" timestamp="1601106175626">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014418531" />
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601106175626" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1601016618544">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601016618544" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1601105733998">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601105733998" />
   </component>
 </project>
