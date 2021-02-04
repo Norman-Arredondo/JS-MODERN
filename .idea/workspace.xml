@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,21 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Operadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Operadores/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Operadores/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Operadores/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-Operadores/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Booleans/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Booleans/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Booleans/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-Booleans/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-Booleans/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Objetos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Objetos/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Objetos/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Objetos/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-Objetos/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-Objetos/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/05-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/06-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Arrays/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/07-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/05-Operadores/js/01-app.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1hzVvblqamvkVlQVkGNEiacUBPp" />
   <component name="ProjectLevelVcsManager">
@@ -76,6 +79,8 @@
       <workItem from="1601014299027" duration="7599000" />
       <workItem from="1601082723626" duration="6426000" />
       <workItem from="1601104218080" duration="4956000" />
+      <workItem from="1612403209509" duration="264000" />
+      <workItem from="1612404125462" duration="1857000" />
     </task>
     <servers />
   </component>
@@ -100,25 +105,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="158" key="#Web_Browsers" timestamp="1601014433450">
+    <state x="430" y="0" key="#JavaScript" timestamp="1612405507333">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="480" y="158" key="#Web_Browsers/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014433450" />
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1601014411815">
+    <state x="430" y="0" key="#JavaScript/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612405507333" />
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1612403214576">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601014411815" />
-    <state x="184" y="14" key="SettingsEditor" timestamp="1601106175626">
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612403214576" />
+    <state x="1369" y="18" key="SettingsEditor" timestamp="1612405710966">
+      <screen x="1366" y="0" width="1024" height="738" />
+    </state>
+    <state x="1369" y="18" key="SettingsEditor/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612405710966" />
+    <state x="501" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612404263016">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="14" key="SettingsEditor/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601106175626" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1601016618544">
+    <state x="501" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612404263016" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1612405558231">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601016618544" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1601105733998">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1280.570@0.0.1366.738" timestamp="1601105733998" />
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612405558231" />
   </component>
 </project>
