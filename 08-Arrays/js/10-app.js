@@ -9,7 +9,7 @@ const carrito = [
 ];
 
 
-7/**.forEach */
+/**.forEach */
 
 carrito.forEach( function(producto) {
     console.log(`${producto.nombre} - Precio: ${producto.precio}`);
