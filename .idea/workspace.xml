@@ -24,19 +24,25 @@
   <component name="ChangeListManager">
     <list default="true" id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/04-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/05-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/06-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Arrays/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-Arrays/js/07-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/05-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/06-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/07-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/08-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/08-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/07-Objetos/js/04-app.js" />
+    </disable_hints>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +55,15 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="sortBySeverity" value="false" />
   </component>
   <component name="ProjectId" id="1hzVvblqamvkVlQVkGNEiacUBPp" />
   <component name="ProjectLevelVcsManager">
@@ -64,7 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,6 +96,8 @@
       <workItem from="1601104218080" duration="4956000" />
       <workItem from="1612403209509" duration="264000" />
       <workItem from="1612404125462" duration="1857000" />
+      <workItem from="1613527320991" duration="115000" />
+      <workItem from="1613527460620" duration="252000" />
     </task>
     <servers />
   </component>
@@ -113,10 +130,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612403214576" />
-    <state x="1369" y="18" key="SettingsEditor" timestamp="1612405710966">
-      <screen x="1366" y="0" width="1024" height="738" />
+    <state x="135" y="0" key="SettingsEditor" timestamp="1613527713054">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="1369" y="18" key="SettingsEditor/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612405710966" />
+    <state x="135" y="0" key="SettingsEditor/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1613527713054" />
     <state x="501" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612404263016">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
