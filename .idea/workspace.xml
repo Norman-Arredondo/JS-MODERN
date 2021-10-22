@@ -24,15 +24,18 @@
   <component name="ChangeListManager">
     <list default="true" id="7f6b8bbc-7bb3-4f17-8d09-6a07265f00a9" name="Default Changelist" comment="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/04-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/05-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/06-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/07-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12-ArrayMethods/js/08-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/12-ArrayMethods/js/08-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/01-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/01-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/02-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/02-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/03-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/03-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/04-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/04-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/05-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/05-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/06-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/06-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/07-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/07-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/08-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/08-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/09-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/09-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-DOM/js/10-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/13-DOM/js/10-scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +80,22 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="10-scripts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/13-DOM/js/10-scripts.js" working-dir="$PROJECT_DIR$/13-DOM/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.10-scripts.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,6 +113,11 @@
       <workItem from="1612404125462" duration="1857000" />
       <workItem from="1613527320991" duration="115000" />
       <workItem from="1613527460620" duration="252000" />
+      <workItem from="1613528887527" duration="255000" />
+      <workItem from="1613529165652" duration="1208000" />
+      <workItem from="1613635001904" duration="122000" />
+      <workItem from="1613635165002" duration="945000" />
+      <workItem from="1613636150117" duration="623000" />
     </task>
     <servers />
   </component>
@@ -120,27 +140,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}" />
     <option name="LAST_COMMIT_MESSAGE" value="Se trabajó con Strings, Template Strings&#10;Su importancia de ES6 y el uso de ${}" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="430" y="0" key="#JavaScript" timestamp="1612405507333">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="430" y="0" key="#JavaScript/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612405507333" />
-    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1612403214576">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612403214576" />
-    <state x="135" y="0" key="SettingsEditor" timestamp="1613527713054">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="135" y="0" key="SettingsEditor/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1613527713054" />
-    <state x="501" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612404263016">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="501" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612404263016" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1612405558231">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1612405558231" />
   </component>
 </project>
