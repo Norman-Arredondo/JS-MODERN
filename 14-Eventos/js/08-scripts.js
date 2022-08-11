@@ -1,3 +1,5 @@
+
+
 // Evitar la propagación con contenido creado...
 const parrafo1 = document.createElement('P');
 parrafo1.textContent = 'Concierto';
@@ -14,6 +16,10 @@ const parrafo3 = document.createElement('p');
 parrafo3.textContent = '$800 por persona';
 parrafo3.classList.add('precio');
 
+/**Más común cuando hay código generado con JS*/
+parrafo3.onclick = function(){
+    nuevaFuncion(1)
+}
 // crear el div...
 const info = document.createElement('div');
 info.classList.add('info');
@@ -38,3 +44,8 @@ contenedorCard.appendChild(info);
 // Insertarlo en el HTML...
 const contenedor = document.querySelector('.hacer .contenedor-cards');
 contenedor.appendChild(contenedorCard); // al inicio info
+
+
+function nuevaFuncion(id) {
+    console.log('desde nueva función', id)
+}
