@@ -42,12 +42,23 @@ Cliente.prototype.retiraSaldo = function(retira) {
 }
 
 function Persona(nombre, saldo, telefono) {
-    Cliente.call(this); //call - método que manda a llamar una función
-   
-    this.telefono = telefono;
+    Cliente.call(this, nombre, saldo); //call - método que manda a llamar una función / Ponemos Cliente porque es la clase de la que vamos a heredar
+    this.telefono = telefono; //No existe en Cliente
 }
 
+//Heredar las funciones -> debe ser antes de instanciarlo
+Persona.prototype = Object.create(Cliente.prototype); //funcion diseñada para copiar el proto y asignarlo hacia otra función
+Persona.prototype.constructor = Cliente;
 //Instanciarlo
 
 const juan = new Persona('Juan', 5000, 56184576);
 console.log(juan)
+
+console.log(juan.nombreClienteSaldo()); //Podemos usar las funciones de cliente porque estamos heredando
+
+
+Persona.prototype.mostrarTelefono = function() {
+    return `El telefono de esta persona es ${this.telefono}`; 
+}
+
+console.log(juan.mostrarTelefono())
