@@ -1,42 +1,41 @@
-
-// Veamos como añadir métodos a nuestras classes...
-class Cliente { 
-
-    constructor( nombre, saldo ) {
+// Métodos y Métodos estáticos en las classes 
+// class declaration
+class Cliente {
+    // Cuerpo de la clase
+    constructor(nombre, saldo) {
         this.nombre = nombre;
         this.saldo = saldo;
     }
 
-    // cualquier método agregado a la clase será parte del proto
-    imprimirSaldo() {
-        return `Hola ${this.nombre}, tu saldo es: ${this.saldo}`;
+    mostrarInformacion() {
+        return `Cliente: ${this.nombre}, tu saldo es de ${this.saldo}`;
     }
 
-    retiraSaldo(retiro) {
-        this.saldo -= retiro;
+    //Método estático, no requiere una instancia para mandarse llamar
+    static bienvenida() {
+        return `Bienvenido al Cajero`;
     }
-
-
-    // También existe algo llamado las propiedades staticas, estas no requieren ser instanciadas...
-
-    static bienvenida(){
-        return `Bienvenido al cajero`;
-    }
-
 }
 
-// javascript es constructaor
-const juan = new Cliente('Juan', 400);
+//Instanciamos
+const norman = new Cliente ('norman', 1000);
+console.log(norman.mostrarInformacion());
+console.log(norman);
+console.log(norman.bienvenida());
+console.log(Cliente.bienvenida());
 
-console.log(juan);
+// class expression
+const Cliente2 = class {
+    constructor(nombre, saldo) {
+        this.nombre = nombre;
+        this.saldo = saldo;
+    }
 
-console.log(juan.imprimirSaldo() );
-juan.retiraSaldo(200);
-console.log(juan.imprimirSaldo() );
+    mostrarInformacion() {
+        return `Cliente: ${this.nombre}, tu saldo es de ${this.saldo}`;
+    }
+}
 
-
-// Ver propiedad estatica...
-
-// juan.bienvenida(); // No va a funcionar
-
-console.log( Cliente.bienvenida() ); // Esto si va a funcionar
+const norman2 = new Cliente2('alex', 2000);
+console.log(norman2.mostrarInformacion());
+console.log(norman2);
